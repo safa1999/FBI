@@ -14,6 +14,7 @@
 
 define config.name = _("FBI")
 
+# config.mouse = { 'default' : [ ('mouse.png', 0, 0)] } WHY NOT WORK.
 
 ## Determines if the title given above is shown on the main menu screen. Set
 ## this to False to hide the title.
